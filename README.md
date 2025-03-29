@@ -23,5 +23,9 @@ The **VLSI System Design Company** conducted this workshop to introduce particip
 - 🛠 Hands-on experience with **VSD Squadron Mini Board using VS Code**  
 - 💡 Understood how **VLSI tools integrate** with hardware
 
+### Conclusion
+-The workshop provided valuable insights into VLSI system design and its real-world applications. By combining software learning (Oracle VirtualBox) with hardware practice (VSD Squadron Mini Board using VS Code), participants gained a strong foundation in VLSI tools and techniques.
+-This experience has significantly enhanced our understanding of VLSI system design, debugging, and practical implementation.
+
 - ### 🔗 References  
 - [VLSI System Design Website](https://www.vlsisystemdesign.com/)
