@@ -16,3 +16,9 @@ The **VLSI System Design Company** conducted this workshop to introduce particip
 
 - **Day 1:** Learned how to install **Oracle VirtualBox** and explored its basic tools & commands.  
 - **Day 2:** Hands-on practice with **VSD Squadron Mini Board**, understanding its features and working with real-time applications.
+
+### 🔹 My Learnings  
+- 🖥 Installed and configured **Oracle VirtualBox**  
+- 📌 Learned basic **commands & tools** for VLSI design  
+- 🛠 Gained **hands-on experience** with the **VSD Squadron Mini Board**  
+- 💡 Understood how **VLSI tools integrate** with hardware 
