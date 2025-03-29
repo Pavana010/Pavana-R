@@ -20,5 +20,8 @@ The **VLSI System Design Company** conducted this workshop to introduce particip
 ### 🔹 My Learnings  
 - 🖥 Installed and configured **Oracle VirtualBox**  
 - 📌 Learned basic **commands & tools** for VLSI design  
-- 🛠 Gained **hands-on experience** with the **VSD Squadron Mini Board**  
-- 💡 Understood how **VLSI tools integrate** with hardware 
+- 🛠 Hands-on experience with **VSD Squadron Mini Board using VS Code**  
+- 💡 Understood how **VLSI tools integrate** with hardware
+
+- ### 🔗 References  
+- [[VLSI System Design Website](https://www.vlsisystemdesign.com/)](#)
