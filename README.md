@@ -8,7 +8,7 @@ This repository contains my report on the **[Hands on Session using RISC-V VSD S
 
 ### 📜 Contents
 - **[report.md](report.md):** Detailed event summary  
-- **[notes.md](hands_on_experience.md):** Key points & learnings  
+- **[hands_on_experience.md](hands_on_experience.md):** Key points & learnings  
 - **[images/](images/):** Photos from the workshop  
  
 ## ✍️ Summary  
