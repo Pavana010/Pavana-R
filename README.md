@@ -24,4 +24,4 @@ The **VLSI System Design Company** conducted this workshop to introduce particip
 - 💡 Understood how **VLSI tools integrate** with hardware
 
 - ### 🔗 References  
-- [[VLSI System Design Website](https://www.vlsisystemdesign.com/)](#)
+- [[VLSI System Design Website](https://www.vlsisystemdesign.com/)]
