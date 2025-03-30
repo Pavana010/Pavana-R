@@ -7,7 +7,7 @@
 This repository contains my report on the **[Hands on Session using RISC-V VSD SQUADRON MINI BOARD ]** held on **[28/02/2025 & 29/03/2025]**. It covers key discussions, technologies explored, and my personal takeaways.
 
 ### 📜 Contents
-- **[report.md](report.md):** Detailed event summary  
+- **[README.md](README.md):** Detailed event summary  
 - **[hands_on_experience/](hands_on_experience/):** Key points & learnings  
 - **[images/](images/):** Photos from the workshop  
  
